@@ -1,2 +1,2 @@
-# Fredeic
+# Frederic
 Mon répertoire de codage
